@@ -1,5 +1,5 @@
 /**
- * Author: Wei
+ * Author: Wei Shi
  * Assignment: Pong Clone
  * Date due: 2025-3-01, 11:59pm
  * I pledge that I have completed this assignment without
